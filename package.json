@@ -1,0 +1,16 @@
+{
+    "id": "slider-common",
+    "name": "滑动条、进度条",
+    "displayName": "滑动条、进度条",
+    "version": "1.0.0",
+    "description": "使用 movable-area + movable-view + css实现可拖动的进度条，支持自定义颜色、宽度、步长等属性值，并支持多种方式设置进度条的值。",
+    "keywords": [
+        "css,slider,movable-area,movable-view,progress,"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
